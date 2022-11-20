@@ -1,26 +1,14 @@
-﻿#############
-## Idea
-#############
-target/
-.idea/
-.idea
-.repository/
-*.iml
-*.iws
-*.jrtc
-*.java
-*.class
-*.info
-*.properties
-*.jar
+﻿**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
 
-/1.JavaSyntax/
-/2.JavaCore/
-/3.JavaMultithreading/
-/4.JavaCollections/
-/5.OnlineInternship/
-/out/
-/JavaRushPlugin.properties
-/Instruction.png
-/out.log
-/out.log.*
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
