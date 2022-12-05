@@ -11,6 +11,7 @@ public class Software {
         if (version > currentVersion) {
             versionHistoryMap.put(version, description);
             currentVersion = version;
+
         }
     }
 
