@@ -24244,3 +24244,48 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 40, length 40
 2022-12-03 22:15:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-12-03 22:15:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-12-03 22:15:49 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-03 22:44:53 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-03 22:44:53 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-03 22:44:53 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-03 22:44:53 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-03 22:44:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-03 22:44:54 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-03 22:44:54 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-03 22:44:54 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-03 23:04:18 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-03 23:04:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-03 23:04:19 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-03 23:20:22 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-03 23:20:22 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-03 23:20:22 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-03 23:20:22 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-03 23:20:22 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-03 23:20:22 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-03 23:21:05 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-03 23:21:05 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-03 23:25:03 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-03 23:25:03 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-03 23:25:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-03 23:25:03 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-03 23:25:03 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-03 23:25:03 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-03 23:36:26 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-03 23:36:27 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-05 12:35:01 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-05 12:35:01 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-05 12:35:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-05 12:35:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-05 12:35:01 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-05 12:35:01 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-05 12:35:01 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-05 12:35:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-05 12:35:02 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-05 12:35:05 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-05 12:35:05 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Java/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task39/task3901
