@@ -9,7 +9,6 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class Solution {
     private Lock lock = new ReentrantLock();
-
     public void someMethod() {
         if (lock.tryLock()) {
             try {
