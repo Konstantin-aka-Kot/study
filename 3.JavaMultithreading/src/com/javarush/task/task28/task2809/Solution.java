@@ -17,6 +17,7 @@ public class Solution {
         characters.add(new Zombie());
         characters.add(new Zombie());
         start(characters);
+
     }
 
     private static boolean isEveryoneReady = false;
